@@ -5,6 +5,6 @@ public class Rule {
         System.out.println("Поверни праворуч");
     }
     public void right(){
-        System.out.println("Поверни ліворуч");
+        System.out.println("Повер ліворуч");
     }
 }
